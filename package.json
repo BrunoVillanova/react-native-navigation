@@ -60,7 +60,7 @@
     "tslib": "1.9.3"
   },
   "devDependencies": {
-    "@babel/core": "7.10.3",
+    "@babel/core": "7.29.6",
     "@babel/plugin-proposal-export-default-from": "7.10.1",
     "@babel/plugin-proposal-export-namespace-from": "7.10.1",
     "@babel/types": "7.6.x",
